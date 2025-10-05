@@ -54,8 +54,5 @@ It uses a **Random Forest model** trained on a sample dataset of tracks, weather
 - ⚠️ The dataset is **very small and synthetic** → for demonstration purposes only.  
 - 📊 With a larger dataset (historical F1 telemetry/strategies), this can be made more realistic.  
 - 🎯 Great example of combining **real-time simulation + ML + interactive dashboards**.  
-
----
-
-## 🖼️ Demo (Screenshots)  
+ 
 
